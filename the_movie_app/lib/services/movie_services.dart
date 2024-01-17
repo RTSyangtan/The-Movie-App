@@ -7,7 +7,7 @@ class MovieServices{
   static final dio = Dio(
     BaseOptions(
         headers: {
-          'Authorization':'Bearer eyJhbGciOiJIUzI1NiJ9.eyJhdWQiOiIwZTkxMzY5ZmRhNzMzMWFkNmRjZjBjMDczNTQxZTBkNiIsInN1YiI6IjY1NzJkZmRjOTQ1YzIwMDEyY2VmYjQ2YSIsInNjb3BlcyI6WyJhcGlfcmVhZCJdLCJ2ZXJzaW9uIjoxfQ.qcyY7lj2KPaQ2EmOt4vwwOIJMRUz4xDOfkQeVGpmRZw'
+          'Authorization':'Bearer your api here'
         }
     ));
 
